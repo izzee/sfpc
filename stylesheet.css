@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Garamon(d/t)';
+    src: url('Garamondt-Italic.woff2') format('woff2'),
+        url('Garamondt-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
